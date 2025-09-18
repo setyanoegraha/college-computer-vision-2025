@@ -1,0 +1,34 @@
+# Core ML/DL libraries
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning frameworks
+torch
+torchvision
+torchaudio
+tensorflow
+tensorflow-datasets
+keras
+
+# Computer Vision
+opencv-python
+opencv-python-headless
+scikit-image
+imageio
+Pillow
+
+# Visualization tools
+tensorboard
+plotly
+
+# Utilities
+tqdm
+albumentations
+imgaug
+
+# Optional: object detection & segmentation
+pycocotools
