@@ -73,7 +73,7 @@ college-computer-vision-2025/
 │
 ├── jobsheet-04/              # Pose Analysis
 │   ├── jobsheet4.ipynb
-│   └── requirements.txt
+│   └── requirements.txt      # Additional dependencies for pose detection
 │
 └── jobsheet-05/              # Object Detection
     └── jobsheet5.ipynb
@@ -129,6 +129,8 @@ college-computer-vision-2025/
 - Real-time processing
 
 **Notebook:** `jobsheet-04/jobsheet4.ipynb`
+
+**Note:** This jobsheet requires additional dependencies specified in `jobsheet-04/requirements.txt` (MediaPipe, cvzone) for pose detection functionality.
 
 ### Jobsheet 05: Object Detection with R-CNN Family
 
